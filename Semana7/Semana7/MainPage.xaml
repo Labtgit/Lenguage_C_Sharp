@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Semana7.MainPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="New" x:Name="tbtNew" />
+
+
+
+        <ToolbarItem IconImageSource="homeIcon.png" Priority="0" Order="Primary" x:Name="tbImHome" />
+        <ToolbarItem IconImageSource="aboutIcon.png" Priority="1" Order="Primary" x:Name="tbImAbout" />
+
+
+
+        <ToolbarItem Text="About" Priority="2" Order="Secondary" x:Name="tbtImAbout"  />
+        <ToolbarItem Text="Logout" Priority="3" Order="Secondary" x:Name="tbtImLogout" />
+
+    </ContentPage.ToolbarItems>
+
+    <StackLayout>
+        <Label Text="Texto de pruebas" x:Name="lbl01"/>
+
+        <Label Text="Probar Arhivos" x:Name="lbl_titulo"/>
+        <Entry Placeholder="Texto a guardar" x:Name="txtguardar"/>
+        <Entry Placeholder="Texto recuperado" x:Name="txtRecuperar"/>
+
+        <Button Text="Guardar" x:Name="btnGuardar" CornerRadius="20"/>
+        <Button Text="Recuperar" x:Name="btnRecuperar" />
+        <Button Text="Borrar" x:Name="btnBorrar" />
+
+
+    </StackLayout>
+
+</ContentPage>

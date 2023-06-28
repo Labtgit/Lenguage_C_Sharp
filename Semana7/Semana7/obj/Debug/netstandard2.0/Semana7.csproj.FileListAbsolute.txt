@@ -1,0 +1,15 @@
+D:\VisualCodigo\Semana7\Semana7\Semana7\bin\Debug\netstandard2.0\Semana7.deps.json
+D:\VisualCodigo\Semana7\Semana7\Semana7\bin\Debug\netstandard2.0\Semana7.dll
+D:\VisualCodigo\Semana7\Semana7\Semana7\bin\Debug\netstandard2.0\Semana7.pdb
+D:\VisualCodigo\Semana7\Semana7\Semana7\obj\Debug\netstandard2.0\Semana7.csproj.AssemblyReference.cache
+D:\VisualCodigo\Semana7\Semana7\Semana7\obj\Debug\netstandard2.0\Semana7.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualCodigo\Semana7\Semana7\Semana7\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\VisualCodigo\Semana7\Semana7\Semana7\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\VisualCodigo\Semana7\Semana7\Semana7\obj\Debug\netstandard2.0\Semana7.AssemblyInfoInputs.cache
+D:\VisualCodigo\Semana7\Semana7\Semana7\obj\Debug\netstandard2.0\Semana7.AssemblyInfo.cs
+D:\VisualCodigo\Semana7\Semana7\Semana7\obj\Debug\netstandard2.0\Semana7.csproj.CoreCompileInputs.cache
+D:\VisualCodigo\Semana7\Semana7\Semana7\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VisualCodigo\Semana7\Semana7\Semana7\obj\Debug\netstandard2.0\Semana7.dll
+D:\VisualCodigo\Semana7\Semana7\Semana7\obj\Debug\netstandard2.0\refint\Semana7.dll
+D:\VisualCodigo\Semana7\Semana7\Semana7\obj\Debug\netstandard2.0\Semana7.pdb
+D:\VisualCodigo\Semana7\Semana7\Semana7\obj\Debug\netstandard2.0\ref\Semana7.dll
